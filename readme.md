@@ -1,4 +1,4 @@
-Angular 2: Getting Started (Pluralsight Course)
+# Angular 2: Getting Started (Pluralsight Course)
 https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents
 
 1) Open a command prompt in the project's root directory (APM)
